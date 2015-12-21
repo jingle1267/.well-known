@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ihongqiqu.applinks",
+    "sha256_cert_fingerprints": ["15:D0:AB:72:7E:37:3E:EF:C3:49:1C:AD:E1:1C:50:4F:0D:79:FD:D2:93:20:D4:F7:5E:10:19:62:60:D3:82:7C"]
+  }
+}]
